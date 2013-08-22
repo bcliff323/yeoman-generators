@@ -32,25 +32,11 @@ PrototypeGenerator.prototype.askFor = function askFor() {
 
     // welcome message
     var welcome =
-        '\n' + '============================================================'.red.bold +
-        '\n' + 'YYY   YYY     OOOO             RRRRR      EEEEEEE   IIIIIIII'.red.bold +
-        '\n' + ' YYY YYY     OOOOOO            RRR RRR    EEEEEEE   IIIIIIII'.red.bold +
-        '\n' + '  YYYYY     OOO  OOO           RRR  RRR   EEE         IIII'.red.bold +
-        '\n' + '   YYY     OOO    OOO   ***    RRR  RRR   EEEEE       IIII'.red.bold +
-        '\n' + '   YYY     OOO    OOO   ***    RRRRRRR    EEEEE       IIII'.red.bold +
-        '\n' + '   YYY     OOO    OOO   ***    RRRRRR     EEEEE       IIII'.red.bold +
-        '\n' + '   YYY      OOO  OOO           RRR RRR    EEE         IIII'.red.bold +
-        '\n' + '   YYY       OOOOOO            RRR  RRR   EEEEEEE   IIIIIIII'.red.bold +
-        '\n' + '   YYY        OOOO             RRR   RRR  EEEEEEE   IIIIIIII'.red.bold +
-        '\n' + '============================================================'.red.bold +
-        '\n' +
-        '\n' +
-        '\n' +
         '\n     _-----_' +
         '\n    |       |' +
         '\n    |' + '--(o)--'.red + '|   .--------------------------.' +
         '\n   `---------´  |    ' + 'Welcome to Yeoman,'.yellow.bold + '    |' +
-        '\n    ' + '( '.yellow + '_' + '´U`'.yellow + '_' + ' )'.yellow + '   |   ' + '      REI FEDs!'.yellow.bold + '     |' +
+        '\n    ' + '( '.yellow + '_' + '´U`'.yellow + '_' + ' )'.yellow + '   |   ' + '      PROTOTYPE!.yellow.bold + '     |' +
         '\n    /___A___\\   \'__________________________\'' +
         '\n     |  ~  |'.yellow +
         '\n   __' + '\'.___.\''.yellow + '__' +
